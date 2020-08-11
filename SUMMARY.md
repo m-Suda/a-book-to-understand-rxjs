@@ -3,7 +3,6 @@
 * [Introduction](README.md)
 * Observableの基礎
     * [RxJSを理解するための土台](foundation/foundation.md)
-    * [それぞれの役割](foundation/role.md)
 * Observableの切り替えと結合
     * [切り替え](switching-and-concatenation/observable-switching.md)
     * [結合](switching-and-concatenation/observable-concatenation.md)
