@@ -63,7 +63,7 @@ const observable$ = Observable(subscriptionFunction);
 これでObservableオブジェクトが作成される。
 
 
-### Observer
+## Observer
 
 Observerは「Observableを`subscribe()`し、流れてくる値を受け取る側」のことだ。  
 このObserverには`.next()`, `.error()`, `.complete()`の3つのメソッドを持ち、これらはそれぞれSubscription Functionで定義された同メソッドが呼ばれた時にそれぞれに対応するメソッドで値を受け取って処理をする。すなわちSubscription Functionからの通知をハンドリングするオブジェクトと呼べる。
