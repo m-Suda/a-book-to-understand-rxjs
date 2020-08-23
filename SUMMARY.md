@@ -2,7 +2,10 @@
 
 * [Introduction](README.md)
 * Observableの基礎
-    * [RxJSを理解するための土台](foundation/foundation.md)
+    * [Subscription Function](foundation/subscription-function.md)
+    * [Observable](foundation/observable.md)
+    * [Observer](foundation/observer.md)
+    * [Subscription](foundation/subscription.md)
 * Observableの切り替えと結合
     * [切り替え](switching-and-concatenation/observable-switching.md)
     * [結合](switching-and-concatenation/observable-concatenation.md)
