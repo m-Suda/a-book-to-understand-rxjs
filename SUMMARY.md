@@ -19,6 +19,11 @@
     * [combineLatest](combining/combineLatest.md)
     * [zip](combining/zip.md)
     * [withLatestFrom](combining/withLatestFrom.md)
+* *Time
+    * [throttleTime](timer/throttleTime.md)
+    * [debounceTime](timer/debounceTime.md)
+    * [auditTime](timer/auditTime.md)
+    * [sampleTime](timer/sampleTime.md)
 * Connectable Observable
     * [Cold/Hot Observable](connectable-observable/hot-cold-observable.md)
     * [multicast](connectable-observable/multicast.md)
