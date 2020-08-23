@@ -14,6 +14,11 @@
     * [concat, concatMap](switching-and-concatenation/rxjs-concat-concatMap.md)
     * [switch, switchMap](switching-and-concatenation/rxjs-switch-switchMap.md)
     * [exhaust, exhaustMap](switching-and-concatenation/rxjs-exhaust-exhaustMap.md)
+* Observableの組み合わせ
+    * [forkJoin](combining/forkJoin.md)
+    * [combineLatest](combining/combineLatest.md)
+    * [zip](combining/zip.md)
+    * [withLatestFrom](combining/withLatestFrom.md)
 * Connectable Observable
     * [Cold/Hot Observable](connectable-observable/hot-cold-observable.md)
     * [multicast](connectable-observable/multicast.md)
