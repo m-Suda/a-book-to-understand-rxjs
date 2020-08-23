@@ -12,5 +12,8 @@
   "license": "ISC",
   "devDependencies": {
     "honkit": "^3.6.0"
+  },
+  "dependencies": {
+    "gitbook-plugin-collapsible-chapters": "^0.1.8"
   }
 }
